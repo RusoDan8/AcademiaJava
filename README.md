@@ -1,6 +1,6 @@
 # AcademiaJava
 Academia java
-Java Academy 2024 Daniel Mercado Cavazos
+Java Academy 2024 Daniel Mercado Cavazos \n
 Polimorfismo con Abstracciones eso son encontrados en Inventario.java y en las clases hijas que son Fruta.java y Producto.java
 el singleton tengo dos opciones en CajaRegistradora.java y InventarioSingleton.java
 en la injeccion de dependecias esta en Inventario.java que es una interfas y la clase InventarioImp1.java  
