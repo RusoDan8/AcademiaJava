@@ -27,4 +27,6 @@ total a pagar por leche: $7.0
 
 
 Los archivos de linux son Linux.pdf
+
+
 los archivos de git y github son Introducción al Funcionamiento entre IntelliJ IDEA y GitHub.pdf
